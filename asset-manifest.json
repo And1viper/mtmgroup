@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mtmgroup/static/css/main.851e157a.css",
-    "main.js": "/mtmgroup/static/js/main.a9a10e4b.js",
+    "main.js": "/mtmgroup/static/js/main.b8feb667.js",
     "static/media/photo-1-bytovye.png": "/mtmgroup/static/media/photo-1-bytovye.b3a69ee7cb445d99fbfc.png",
     "static/media/photo-1-transporthvac.png": "/mtmgroup/static/media/photo-1-transporthvac.9f3444d01dba0c6ce438.png",
     "static/media/photo-1-hvac.png": "/mtmgroup/static/media/photo-1-hvac.addd44e38d8ba44d8de0.png",
@@ -108,10 +108,10 @@
     "static/media/facebook-icon.svg": "/mtmgroup/static/media/facebook-icon.0dd583290394827299a568b59b133cb9.svg",
     "static/media/cross-img.svg": "/mtmgroup/static/media/cross-img.d11e3f1d6500b1a118ec66a148472b08.svg",
     "main.851e157a.css.map": "/mtmgroup/static/css/main.851e157a.css.map",
-    "main.a9a10e4b.js.map": "/mtmgroup/static/js/main.a9a10e4b.js.map"
+    "main.b8feb667.js.map": "/mtmgroup/static/js/main.b8feb667.js.map"
   },
   "entrypoints": [
     "static/css/main.851e157a.css",
-    "static/js/main.a9a10e4b.js"
+    "static/js/main.b8feb667.js"
   ]
 }
