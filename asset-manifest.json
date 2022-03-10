@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/mtmgroup/static/css/main.851e157a.css",
-    "main.js": "/mtmgroup/static/js/main.b8feb667.js",
+    "main.js": "/mtmgroup/static/js/main.40ef8c8e.js",
     "static/media/photo-1-bytovye.png": "/mtmgroup/static/media/photo-1-bytovye.b3a69ee7cb445d99fbfc.png",
     "static/media/photo-1-transporthvac.png": "/mtmgroup/static/media/photo-1-transporthvac.9f3444d01dba0c6ce438.png",
     "static/media/photo-1-hvac.png": "/mtmgroup/static/media/photo-1-hvac.addd44e38d8ba44d8de0.png",
     "static/media/nashi_raboty_2.png": "/mtmgroup/static/media/nashi_raboty_2.e0f6f5d82321e1ef98a4.png",
     "static/media/smoke-pipe-industry-factory.png": "/mtmgroup/static/media/smoke-pipe-industry-factory.4572c5aeeb1b2d0e304f.png",
     "static/media/nashi_raboty_1.png": "/mtmgroup/static/media/nashi_raboty_1.a8832216ebfd05e19297.png",
+    "static/media/male-technician-repairing-computer-motherboard-wooden-desk.png": "/mtmgroup/static/media/male-technician-repairing-computer-motherboard-wooden-desk.a5ae0797a53ef306e415.png",
     "static/media/nashi_raboty_16.png": "/mtmgroup/static/media/nashi_raboty_16.024c50916c060fb657b6.png",
     "static/media/background-hvac.jpg": "/mtmgroup/static/media/background-hvac.7c0d5200d76c1dba208b.jpg",
-    "static/media/male-technician-repairing-computer-motherboard-wooden-desk.png": "/mtmgroup/static/media/male-technician-repairing-computer-motherboard-wooden-desk.7d5ca32c32bc35418745.png",
     "static/media/nashi_raboty_11.png": "/mtmgroup/static/media/nashi_raboty_11.fa60b52eb45dcb7493c4.png",
     "static/media/nashi_raboty_6.png": "/mtmgroup/static/media/nashi_raboty_6.01db3e9325f8217d5d92.png",
     "static/media/nashi_raboty_10.png": "/mtmgroup/static/media/nashi_raboty_10.c5867747b1409328513e.png",
@@ -108,10 +108,10 @@
     "static/media/facebook-icon.svg": "/mtmgroup/static/media/facebook-icon.0dd583290394827299a568b59b133cb9.svg",
     "static/media/cross-img.svg": "/mtmgroup/static/media/cross-img.d11e3f1d6500b1a118ec66a148472b08.svg",
     "main.851e157a.css.map": "/mtmgroup/static/css/main.851e157a.css.map",
-    "main.b8feb667.js.map": "/mtmgroup/static/js/main.b8feb667.js.map"
+    "main.40ef8c8e.js.map": "/mtmgroup/static/js/main.40ef8c8e.js.map"
   },
   "entrypoints": [
     "static/css/main.851e157a.css",
-    "static/js/main.b8feb667.js"
+    "static/js/main.40ef8c8e.js"
   ]
 }
